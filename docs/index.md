@@ -22,7 +22,7 @@ Syntax highlighted code block
 2. List
 3. En ändring
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ and `Code` Githhubs ändringar
 
 [Link](url) and ![Image](src)
 ```
