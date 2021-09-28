@@ -7,17 +7,14 @@ You can use the [editor on GitHub](https://github.com/MarcusOster/Skoltest/edit/
 
 En sida som jag testar lite på
 
-```Marcus
-Syntax highlighted code block
+Marcus
 
-# Rubrik 1
-## Kommentar 2
-### Marcus 3
 
-- Bulleted
-- List
+# Marcus sida
+Testar runt lite på github
 
-1. Numbered
-2. List
-3. En ändring
+
+
+Passa på att kika in vårt gruppprojekt bager.online 
+
 
